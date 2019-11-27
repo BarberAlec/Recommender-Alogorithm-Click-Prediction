@@ -8,6 +8,7 @@ A group project by myself, Rob Trew and David Scolard.
         <p>Please download the report PDF here: <a href="https://gitlab.scss.tcd.ie/team_66_CS7CS4/Click_Predict/blob/dev1/ML_report.pdf">Download PDF</a>.</p>
     </embed>
 </object>
+
 ![Report_page_1](ML_report/ML_report-1.jpg)
 
 _________________
